@@ -1,0 +1,31 @@
+body{background-color: rgb(216, 215, 215);}
+p{text-align: center;}
+h1{text-align: center;}
+h2{text-align: center;}
+h3{text-align: center;}
+
+
+body {
+
+}
+
+header { 
+background-color: rgb(216, 215, 215);
+}
+
+main { 
+background-color: rgb(216, 215, 215);
+}
+
+footer { 
+background-color: rgb(216, 215, 215);
+}
+
+#banner { width: 50%}
+.conteiner {
+    text-align: center;
+}
+
+.principal {
+    background-color: rgb(216, 215, 215);
+}
